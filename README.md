@@ -1,10 +1,12 @@
-<div style="https://www.fau.de/wp-content/themes/FAU-Einrichtungen/img/logos/fau-logo-240x65.svg">
+ <div style="background-color:white">
   <div align="center">
+    <img src="https://www.fau.de/wp-content/themes/FAU-Einrichtungen/img/logos/fau-logo-240x65.svg" width="700" height="250">
     <hr>
     <h1 style="color:black">Transaction Classification<h1>
+    <h3 style="color:black">Tim Löhr<h3>
   </div>
   <hr>
-</div>
+</div>    
 
 ## Objective
 Using a real dataset from the master course `Software Applications with Artificial Intelligence`, I try to predict based on bank transfer data, how accurately I can predict a given label. For this project, I analyise all the features given to us and underdo different preprocessing techniques, because we have categorical data, numbers and also text.
@@ -28,9 +30,9 @@ In the end, the trained model will be evaluated based on the accuracy and F1 sco
 ```
 ## Links to Ressources
 
-- Transaction_Classification as [iPython](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/anomaly-detection-with-neural-network-in-time-series-data/-/blob/master/Code/Notebooks/Machine_Learning.ipynb)
+- Transaction_Classification as [iPython](https://github.com/Mavengence/SAKI_Homework_1/blob/master/Transaction_Classification.ipynb)
 
-- Final Report [PDF](https://mad-srv.informatik.uni-erlangen.de/MadLab/industry-4.0/seminar-i4.0/ss2020/anomaly-detection-with-neural-network-in-time-series-data/-/blob/master/Paper/L%C3%B6hr_Tim_MADI40SS20_final_presentation.pdf)
+- Final Report [PDF](https://github.com/Mavengence/SAKI_Homework_1/blob/master/classification_report.pdf)
 
 ## Ressources
 
