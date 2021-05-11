@@ -19,9 +19,7 @@ In the end, the trained model will be evaluated based on the accuracy and F1 sco
 ```
 
 +-- Transaction_Classification.ipynb  
-|
-+-- classification_report.pdf
-|              
++-- classification_report.pdf            
 +-- data.csv                         
 +-- requirements.txt                    
 +-- README.md
