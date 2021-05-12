@@ -5,7 +5,6 @@
     <h1 style="color:black">Transaction Classification<h1>
     <h3 style="color:black">Tim Löhr<h3>
   </div>
-  <hr>
 </div>    
 
 ## Objective
