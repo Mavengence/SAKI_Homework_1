@@ -5,14 +5,20 @@
     <h1 style="color:black">Transaction Classification<h1>
     <h3 style="color:black">Tim Löhr<h3>
   </div>
-  <hr>
 </div>    
 
 ## Objective
+<<<<<<< HEAD
 This project aims to quantify how accurately bank transfer data can classify seven different labels. Those labels are for example standard of living or income. Different data from the bank transfer could have an indication for which label this payment aims for. Therefore, I analyses all the features given to us and underdo different preprocessing techniques and combinations, because we have categorical data, numbers and also text.
 I try out different combinations with the data and use the naive bayes classifier for the classification task. Furthermore, the dataset is split into a train, test and validation set, because of the slight data imbalance.
 In the end, the trained model will be evaluated based on the accuracy and F1 score, because we have a multiclass classification task which is imbalanced. Therefore, only the accuracy score is not sufficient enough to evaluate the result.
 
+=======
+Using a real dataset from the master course `Software Applications with Artificial Intelligence`, I try, based on bank transfer data, how accurately I can predict a given label. For this project, I analyise all the features given to us and underdo different preprocessing techniques, because we have categorical data, numbers and also text.
+I try out different combinations with the data and use the naive bayes classifier for the classification task.
+Furthermore, the dataset is split into a train, test and validation set, because of the slight data imbalance.
+In the end, the trained model will be evaluated based on the accuracy and F1 score, because we have a multiclass classification task which is imbalanced. Therefore only the accuracy score is not sufficient enough to evaluate the result.
+>>>>>>> 2cb3ec16c452a1782fd7522852cd6d916a498faf
 
 ### Structure
 
