@@ -47,7 +47,7 @@ In the end, the trained model will be evaluated based on the accuracy and F1 sco
 The dependencies to this project are stored in the file:
    - requirements.txt
 
-I use python version 3.7.4
+I use python version 3.6.0
 ```
 
 ## Author
